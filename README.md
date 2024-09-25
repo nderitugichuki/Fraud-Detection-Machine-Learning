@@ -75,15 +75,10 @@ The results section will present a comparison of both models based on their perf
 
 This project demonstrates how machine learning techniques can effectively detect fraudulent credit card transactions. Future work may involve exploring additional algorithms, optimizing hyperparameters further, or implementing real-time fraud detection systems.
 
-## Usage
+## 
+1. creditcard_csv - Contains the dataset file for the project.
+2. Fraud Detection Machine Learning.ipynb - Contains the code documentation.
 
-To run the models:
-
-1. Preprocess the data by executing `data_preprocessing.py`.
-2. Train and evaluate Logistic Regression by running `logistic_regression.py`.
-3. Train and evaluate Random Forest Classifier by running `random_forest.py`.
-
-Ensure that you have followed all steps in data preprocessing before running the model scripts.
 
 ## License
 
